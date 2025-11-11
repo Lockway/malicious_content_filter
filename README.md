@@ -16,7 +16,8 @@ uvicorn main:app --reload
 ## Response
 ```
 {
-    'hate': 0,
-    'spam': 0,
+    'hate': 0.01,
+    'spam': 0.01,
 }
 ```
+
